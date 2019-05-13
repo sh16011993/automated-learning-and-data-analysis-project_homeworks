@@ -1,0 +1,7 @@
+-> The pdf G06_HW1 has our detailed explantions of questions Q1-Q6 and Q7b.
+-> hw1.R has the functions to calculate the distances , normalized matrix and also analysis of normalized and the original data matrix.
+-> In the analyze_normalization function two plots with names "G06_norm" and "G06_orig" will be saved as pdf files in the local machine.
+-> G06_norm is the plot of the plot_distance_matrix function on Normalized matrix.
+-> G06_orig is the plot of the plot_distance_matrix function on Original matrix.
+-> Two more histograms plots on the normalized matrix and original matrix are shown which appear at run time.
+-> The resultant plots are also present in the explanation of 7b.
